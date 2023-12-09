@@ -4,11 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+mAmineChniti!;" />
 </h1>
 
+Backend Engineer
+----------------
  
+I'm an ESPRIT student with a passion for backend engineering. Committed to learning and innovation, I aspire to contribute to the tech world with my programming skills.
+
 <div align="center"> 
+
+* 🌍  I'm based in Tunis
+* ✉️  You can contact me on 
+  <br>
   <a href="mailto:emin.chniti@esprit.tn.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+* 🚀  I'm currently working on [sticks](http://github.com/mAmineChniti/sticks)
+* 🧠  I'm learning rust
+
 </div>
 
  <hr/>
@@ -17,7 +28,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,bash,postman,md" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,fastapi,rust,githubactions,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,fastapi,rust,githubactions,linux," />
+    <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+    <br>
 </div>
 
 <br/>
