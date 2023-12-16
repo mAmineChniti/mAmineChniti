@@ -6,13 +6,13 @@
 
 Backend Engineer
 ----------------
- 
+
 I'm an ESPRIT student with a passion for backend engineering. Committed to learning and innovation, I aspire to contribute to the tech world with my programming skills.
 
-<div align="center"> 
+<div align="center">
 
 * 🌍  I'm based in Tunis
-* ✉️  You can contact me on 
+* ✉️  You can contact me on
   <br>
   <a href="mailto:emin.chniti@esprit.tn.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -23,13 +23,12 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
 </div>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,bash,postman,md" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,fastapi,rust,githubactions,linux," />
-    <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
     <br>
 </div>
 
@@ -40,7 +39,7 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mAmineChniti/mAmineChniti/output/github-contribution-grid-snake.svg" />
-  
+
   <br/><br/><br/>
 </div>
 
