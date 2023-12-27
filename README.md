@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+mAmineChniti!;" />
 </h1>
 
-Backend Engineer
-----------------
-
 I'm an ESPRIT student with a passion for backend engineering. Committed to learning and innovation, I aspire to contribute to the tech world with my programming skills.
 
 <div align="center">
@@ -40,7 +37,6 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mAmineChniti/mAmineChniti/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
 </div>
 
 <hr/>
