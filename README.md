@@ -24,8 +24,8 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,bash,postman,md,vite,react" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,fastapi,rust,githubactions,linux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,bash,postman,md,vite,react,neovim,bun,pnpm,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,ts,mongodb,c,cpp,mysql,fastapi,rust,githubactions,linux,tailwind,go,docker,htmx,astro,svelte" />
     <br>
 </div>
 
