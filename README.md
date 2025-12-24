@@ -46,5 +46,5 @@
   <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mAmineChniti&theme=react" alt="profile details" />
   <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mAmineChniti&theme=react" alt="stats" />
   <br/>
-  <img width="760" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mAmineChniti&theme=react" alt="top langs" />
+  <img width="420" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mAmineChniti&theme=react" alt="top langs" />
 </div>
