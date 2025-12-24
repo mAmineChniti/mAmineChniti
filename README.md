@@ -43,8 +43,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <p align="center">
-    <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mAmineChniti&theme=react" alt="profile details" />
+  <p align="center" style="width:100%;margin:0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mAmineChniti&theme=react" alt="profile details" style="width:100%;max-width:920px;height:220px;object-fit:contain;border-radius:10px;" />
   </p>
 
   <table align="center">
