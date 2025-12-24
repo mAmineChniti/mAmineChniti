@@ -43,8 +43,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mAmineChniti&theme=react" alt="profile details" />
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mAmineChniti&theme=react" alt="stats" />
-  <br/>
-  <img width="420" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mAmineChniti&theme=react" alt="top langs" />
+  <p align="center">
+    <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mAmineChniti&theme=react" alt="profile details" />
+  </p>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mAmineChniti&theme=react" alt="stats" />
+      </td>
+      <td align="center">
+        <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mAmineChniti&theme=react" alt="top langs" />
+      </td>
+    </tr>
+  </table>
 </div>
