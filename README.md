@@ -13,8 +13,9 @@
     🌍 I'm based in Tunis<br/>
     ✉️ You can contact me at 
     <a href="mailto:emin.chniti@esprit.tn.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
     </a><br/>
+    🌐 Check out my portfolio at <a href="https://maminechniti.dev/">mAmineChniti.dev</a><br/>
     🚀 I'm currently working on <a href="http://github.com/mAmineChniti/sticks">sticks</a><br/>
     🧠 I'm learning Rust
   </p>
